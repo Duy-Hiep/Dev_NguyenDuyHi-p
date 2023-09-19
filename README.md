@@ -6,4 +6,4 @@
 <br>
 <br>
 <br>
-<img src="https://media.giphy.com/media/xTiTnoHt2NwerFMsCI/giphy.gif">
+<img src="https://media.giphy.com/media/xTiTnoHt2NwerFMsCI/giphy.gif" width = "100%">
