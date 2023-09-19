@@ -6,5 +6,4 @@
 <br>
 <br>
 <br>
-<!-- <img src="https://media.giphy.com/media/gh08oFnHepVko5TmuO/giphy.gif"> -->
 <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" witch="100%">
