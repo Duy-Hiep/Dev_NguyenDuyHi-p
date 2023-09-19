@@ -6,4 +6,4 @@
 <br>
 <br>
 <br>
-<img src="https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif" width="80%">
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xTiTnoHt2NwerFMsCI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wwe-john-cena-super-saiyan-xTiTnoHt2NwerFMsCI">via GIPHY</a></p>
