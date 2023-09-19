@@ -1,6 +1,6 @@
-[19/09/2023 22:17:09] Nguyễn Hồng Sơn: <img src="https://komarev.com/ghpvc/?username=anhcoder03"><img>
+[19/09/2023 22:17:09] Nguyễn Duy Hiệp: <img src="https://komarev.com/ghpvc/?username=anhcoder03"><img>
 <a href="#" target="_blank">
-  <img src="svg/anhcoder03.svg" width="1200" alt="anhcoder03" />
+  <img src="svg/anhcoder03.svg" width="1200" alt="dev_Hiep" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
